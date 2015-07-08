@@ -1,0 +1,28 @@
+{
+  "name": "polyscope-strings",
+  "repository": "http://github.com/polyvitamins/polyscope-strings",
+  "description": "Supports EACH function for all object-like functions",
+  "version": "0.0.1",
+  "keywords": ["polyscope", "strings"],
+  "main": [
+    "dist/Strings.js"
+  ],
+  "dependencies": {
+    "polyvitamins/polyscope": "master"
+   },
+  "scripts": [
+    "src/Strings.js"
+  ],
+  "optional": {
+    "camelize":     "src/Strings/camelize.js",
+    "dasherize":    "src/Strings/dasherize.js",
+    "firstUpper":   "src/Strings/firstUpper.js"
+  },
+  "license": "MIT",
+  "remotes": [
+    "github"
+  ],
+  "tags": [
+    "global","amd"
+  ]
+}

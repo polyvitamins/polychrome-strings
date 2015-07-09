@@ -4,9 +4,6 @@
   "description": "Supports EACH function for all object-like functions",
   "version": "0.0.1",
   "keywords": ["polyscope", "strings"],
-  "main": [
-    "dist/Strings.js"
-  ],
   "dependencies": {
     "polyvitamins/polyscope": "master"
    },

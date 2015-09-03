@@ -1,4 +1,4 @@
-define(['polyvitamins~polyscope@master'], function(core) {
+define(['polyvitamins~polychrome@master'], function(core) {
 	/* Расширяем абстрактный класс Function */
 	
 	var Strings = core.registerClass('Strings', function() {
